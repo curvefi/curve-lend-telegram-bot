@@ -41,7 +41,7 @@ This software does not collect any data beyond what is necessary to offer the se
 2. The addresses you add using the `/add` command: necessary for their monitoring
 3. Loan positions on these addresses (including the lending market’s address and its state): necessary for detecting when their states change
 
-(See methods responsible for saving this data: [1](https://github.com/curvefi/curve-lend-telegram-bot/blob/main/data/addUserAddress.js) and [2](https://github.com/curvefi/curve-lend-telegram-bot/blob/main/data/saveUserPositionHealthChange.js))
+(See methods responsible for saving this data: [1](https://github.com/curvefi/llamalend-telegram-bot/blob/main/data/addUserAddress.js) and [2](https://github.com/curvefi/llamalend-telegram-bot/blob/main/data/saveUserPositionHealthChange.js))
 
 Please note that:
 
@@ -50,4 +50,4 @@ Please note that:
 
 ## License
 
-Please see [this software’s license](https://github.com/curvefi/curve-lend-telegram-bot/blob/main/LICENSE) for a statement on licensing, risks, absence of warranty/liability, etc
+Please see [this software’s license](https://github.com/curvefi/llamalend-telegram-bot/blob/main/LICENSE) for a statement on licensing, risks, absence of warranty/liability, etc
